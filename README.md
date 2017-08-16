@@ -1,5 +1,7 @@
 ## Instructions
-To provide suggestions for changes to the data elements of the FY 2018 Public Libraries Survey, please open an issue for each suggestion by [clicking here](https://github.com/IMLS/public-libraries-survey/issues) and then clicking on the [green button](https://github.com/IMLS/public-libraries-survey/issues/new) in the upper right corner. Depending on the type of data element change proposed, please be sure to include the following information in your issue when you open it.
+To provide suggestions for changes to the data elements of the FY 2018 Public Libraries Survey, please open an issue for each suggestion by [clicking here](https://github.com/IMLS/public-libraries-survey/issues) and then the green button in the upper right hand corner, or by [clicking here](https://github.com/IMLS/public-libraries-survey/issues/new) to open a new issue directly.
+
+Depending on the type of data element change proposed, please be sure to include the following information in your issue when you open it.
 
 For each proposed change, include your name and state. Additionally, please include the following information:
 * **Additions**: Title of the proposed data element, definition, rationale for addition, and any states that are already collecting this information.   
