@@ -10,7 +10,9 @@ In addition to your name and state, please include the following information for
 * **Changes**: Number and title of the data element, current definition, proposed change, and rationale for change.
 * **Deletions**: Number and title of the data element, current definition, and rationale for deletion.
 
-Please find the [current FY 2016 PLS data element definitions](https://github.com/IMLS/public-libraries-survey/blob/master/FY%202016%20PLS%20Data%20Element%20Definitions.pdf) and issue templates saved to the PLS repository. [Click here](https://github.com/IMLS/public-libraries-survey/issues) to see a running list of issues/proposed changes to FY 2018 data elements. Click on an individual issue to see its contents and any comments related to the issues, and feel free to add your own ot the discussion. 
+Please find the [current FY 2016 PLS data element definitions](https://github.com/IMLS/public-libraries-survey/blob/master/FY%202016%20PLS%20Data%20Element%20Definitions.pdf) and issue templates saved to the PLS repository. 
+
+[Review the  list of issues/proposed changes to the FY 2018 data elements](https://github.com/IMLS/public-libraries-survey/issues); click on individual issues to see their contents, and add comments to further discussion.  
 
 ## Deadlines
 All proposed changes are due by COB Friday, September 15, 2017. All comments are due by COB Friday, September 29, 2017.
