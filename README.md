@@ -17,4 +17,4 @@ Please find the [current FY 2016 PLS data element definitions](https://github.co
 If you have questions or need additional guidance, please reach out to Marisa Pelczar (mpelczar@imls.gov). 
 
 ## Deadlines
-All proposed changes are due by COB Friday, September 15, 2017. All comments are due by COB Friday, September 29, 2017.
+All proposed changes are due by COB Friday, September 29, 2017. All comments are due by COB Friday, October 13, 2017.
