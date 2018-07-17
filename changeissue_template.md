@@ -2,7 +2,7 @@
 
 **Your state:**
 
-**Number and title of data element you seek to change:**
+**Number and number of data element you seek to change:**
 
 **Proposed change:**
 
