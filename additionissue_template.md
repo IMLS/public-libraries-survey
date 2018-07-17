@@ -6,6 +6,6 @@ Title of the proposed data element:
 
 Definition:
 
-Rationale for addition:
+Rationale for addition of new data element:
 
-Any states that are already collecting this information: 
+Any states that are already collecting this information (include their definitions if you can): 
