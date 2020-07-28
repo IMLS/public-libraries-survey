@@ -10,7 +10,7 @@ In addition to your name and state, please include the following information for
 * **Changes**: Number and title of the data element, current definition, proposed change, and rationale for change.
 * **Deletions**: Number and title of the data element, current definition, and rationale for deletion.
 
-Please find templates to create issues and the [FY 2018 PLS data element definitions](https://github.com/IMLS/public-libraries-survey/blob/master/FY%202018_Data%20Element%20Definitions.pdf) (there were no changes to the PLS in FY 2019) saved to the PLS repository. 
+Please find templates to create issues and the [FY 2020 PLS data element definitions](https://github.com/IMLS/public-libraries-survey/blob/master/FY%202020%20PLS%20Data%20Elements.pdf) saved to the PLS repository. 
 
 3. [Review the  list of issues/proposed changes to the FY 2021 data elements](https://github.com/IMLS/public-libraries-survey/issues); click on individual issues to see their contents, and add comments to further discussion.  The list provides a [training example](https://github.com/IMLS/public-libraries-survey/issues/4) if you would like to see an issue in action. 
 
