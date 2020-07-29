@@ -17,4 +17,4 @@ Please find templates to create issues and the [FY 2020 PLS data element definit
 If you have questions or need additional guidance, please reach out to the PLS Help Desk (PLS@air.org). 
 
 ## Deadlines
-All proposed changes are due by COB Friday, August 28, 2020. All comments are due by COB Friday, September 4, 2020.
+All proposed changes are due by COB Friday, September 4, 2020. All comments are due by COB Friday, September 11, 2020.
