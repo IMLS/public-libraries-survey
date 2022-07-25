@@ -1,10 +1,13 @@
+In **title of the proposed deletion** include "Deletion" and the existing data element's item number and name (delete this line before posting).
+
+In the **body** of the request include the following information (delete this line before posting):
+
 Your name:
 
-Your state:
+Your state/affiliation:
 
-Number and title of the data element proposed for deletion:
+Description of change (include existing data element defitions):
 
-Current definition:
+Justification for deletion of existing data element:
 
-Rationale for deletion: 
-
+**If known**, potential methodological issues related to the change (e.g., data unreliability/bias, potential data collection challenges):
