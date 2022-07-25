@@ -14,7 +14,7 @@
       * For **revisions**, include the existing data element definition and explain which terms should be updated.
       * For **deletions**, include the existing data element definition.
    * Justification for the change request;
-   * If known, potential methodological issues related to the change (e.g., data unreliability/bias, potential data collection challenges; and
+   * If known, potential methodological issues related to the change (e.g., data unreliability/bias, potential data collection challenges); and
    * Information about whether the data element is being collected elsewhere.
 
    The PLS Reposity includes templates to creat issues and the [FY 2022 PLS data element definitions](https://github.com/IMLS/public-libraries-survey/blob/master/FY%202022%20Data%20Elements.pdf) saved to the PLS repository. 
