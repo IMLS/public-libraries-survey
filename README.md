@@ -17,7 +17,7 @@
    * If known, potential methodological issues related to the change (e.g., data unreliability/bias, potential data collection challenges); and
    * Information about whether the data element is being collected elsewhere.
 
-   The PLS Reposity includes templates to create issues and the [FY 2022 PLS data element definitions](https://github.com/IMLS/public-libraries-survey/blob/master/FY%202022%20Data%20Elements.pdf) saved to the PLS repository. 
+   The PLS Repository includes templates to create issues and the [FY 2022 PLS data element definitions](https://github.com/IMLS/public-libraries-survey/blob/master/FY%202022%20Data%20Elements.pdf) saved to the PLS repository. 
 
 3. [Review the  list of issues/proposed changes to the FY 2022 data elements](https://github.com/IMLS/public-libraries-survey/issues); click on individual issues to see their contents, and add comments to further discussion.  The list provides a [training example](https://github.com/IMLS/public-libraries-survey/issues/4) if you would like to see an issue in action. 
 
