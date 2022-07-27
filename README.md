@@ -19,7 +19,7 @@
 
    The PLS Repository includes templates to create issues and the [FY 2022 PLS data element definitions](https://github.com/IMLS/public-libraries-survey/blob/master/FY%202022%20Data%20Elements.pdf) saved to the PLS repository. 
 
-3. [Review the  list of issues/proposed changes to the FY 2022 data elements](https://github.com/IMLS/public-libraries-survey/issues); click on individual issues to see their contents, and add comments to further discussion.  The list provides a [training example](https://github.com/IMLS/public-libraries-survey/issues/4) if you would like to see an issue in action. 
+3. [Review the  list of issues/proposed changes to the FY 2022 data elements](https://github.com/IMLS/public-libraries-survey/issues); click on individual issues to see their contents, and add comments to further discussion.  The list provides 3 training examples, an [addition](https://github.com/IMLS/public-libraries-survey/issues/56), a [revision](https://github.com/IMLS/public-libraries-survey/issues/57), and a [deletion](https://github.com/IMLS/public-libraries-survey/issues/58) if you would like to see issues in action. 
 
 If you have questions or need additional guidance, please reach out to the PLS Help Desk (PLS@air.org) or an SDC mentor (Verena Getahun, Joe Hamlin, Amanda Johnson, Kelly Metzger, or Whitney Payne). 
 
