@@ -25,8 +25,8 @@ If you have questions or need additional guidance, please reach out to the PLS H
 
 
 ## Deadlines
-All proposed changes are due by **COB Wednesday, August 31, 2022**. All comments are due by COB Wednesday, September 7, 2022.
+All proposed changes and comments are due by **COB Tuesday, September 5, 2023**.
 
 
 ## Next Steps
-At the Fall meeting of the Library Statistics Working Group (LSWG) in October, the LSWG will decide which change requests should receive further consideration by a subcommittee, including development into new or revised data elements. From November 2022 through June 2023, AIR and the LSWG subcommittee(s) will develop and pre-test the data elements. SDCs will have an opportunity to discuss the changes under LSWG consideration during the meeting events in December. After development and testing, LSWG will review the final data element changes and approve which will be placed on the ballot and go to states for a vote in August 2023. Following this vote, IMLS will announce the ratified data element changes in October 2023—about 9 months before Group 1 state surveys open in July 2024.
+At the Fall meeting of the Library Statistics Working Group (LSWG) in October, the LSWG will decide which change requests should receive further consideration by a subcommittee, including development into new or revised data elements. From November 2023 through June 2024, AIR and the LSWG subcommittee(s) will develop and pre-test the data elements. SDCs will have an opportunity to discuss the changes under LSWG consideration during the meeting events in December. After development and testing, LSWG will review the final data element changes and approve which will be placed on the ballot and go to states for a vote in August 2024. Following this vote, IMLS will announce the ratified data element changes in October 2024—about 9 months before Group 1 state surveys open in July 2025.
