@@ -17,7 +17,7 @@
    * If known, potential methodological issues related to the change (e.g., data unreliability/bias, potential data collection challenges); and
    * Information about whether the data element is being collected elsewhere.
 
-   The PLS Repository includes templates to create issues and the [FY 2022 PLS data element definitions](https://github.com/IMLS/public-libraries-survey/blob/master/FY%202022%20Data%20Elements.pdf) saved to the PLS repository. 
+   The PLS Repository includes templates to create issues and the [FY 2023 PLS data element definitions](https://github.com/IMLS/public-libraries-survey/blob/master/FY%202023%20PLS%20Data%20Elements.pdf) saved to the PLS repository. 
 
 3. [Review the issues/proposed changes to the FY 2025 PLS data elements](https://github.com/IMLS/public-libraries-survey/issues); click on individual issues to see their contents, and add comments to further discussion.  The list provides 3 training examples, an [addition](https://github.com/IMLS/public-libraries-survey/issues/56), a [revision](https://github.com/IMLS/public-libraries-survey/issues/57), and a [deletion](https://github.com/IMLS/public-libraries-survey/issues/58) if you would like to see issues in action. 
 
@@ -29,4 +29,4 @@ All proposed changes and comments are due by **COB Tuesday, September 5, 2023**.
 
 
 ## Next Steps
-At the Fall meeting of the Library Statistics Working Group (LSWG) in October, the LSWG will decide which change requests should receive further consideration by a subcommittee, including development into new or revised data elements. From November 2023 through June 2024, AIR and the LSWG subcommittee(s) will develop and pre-test the data elements. SDCs will have an opportunity to discuss the changes under LSWG consideration during the meeting events in December. After development and testing, LSWG will review the final data element changes and approve which will be placed on the ballot and go to states for a vote in August 2024. Following this vote, IMLS will announce the ratified data element changes in October 2024—about 9 months before Group 1 state surveys open in July 2025.
+At the Fall meeting of the Library Statistics Working Group (LSWG) in October, the LSWG will decide which change requests should receive further consideration by a subcommittee, including development into new or revised data elements. From November 2023 through June 2024, AIR and the LSWG subcommittee(s) will develop and pre-test the data elements. SDCs will have an opportunity to discuss the changes under LSWG consideration during the meeting events in December 2023. After development and testing, LSWG will review the final data element changes and approve which will be placed on the ballot and go to states for a vote in August 2024. Following this vote, IMLS will announce the ratified data element changes in October 2024—about 9 months before Group 1 state surveys open in July 2025.
